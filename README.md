@@ -1,1 +1,1 @@
-# stock-market-nutrition
+# weak-form-market-efficiency-test
